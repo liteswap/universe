@@ -1,4 +1,4 @@
-# Overview of Uniswap 🦄
+# Overview of Liteswap 🦄
 
 [Uniswap](https://uniswap.io/) is a decentralized exchange protocol built on Ethereum.
 
